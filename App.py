@@ -5,7 +5,7 @@ import numpy as np
 import altair as alt
 
 
-st.title('My Project!')
+st.title('My Project! Kratai')
 st.write('This is a simple example of a Streamlit app.')
 
 
